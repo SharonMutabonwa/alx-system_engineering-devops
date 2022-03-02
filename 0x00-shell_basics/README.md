@@ -1,0 +1,1 @@
+script printing absolute path
