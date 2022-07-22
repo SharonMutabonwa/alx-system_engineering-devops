@@ -2,6 +2,7 @@
 #This script is displaying "Best School" 10 times using until loop
 
 i=10
+
 until [ $i -lt 1 ]
 do
 	echo "Best School"
