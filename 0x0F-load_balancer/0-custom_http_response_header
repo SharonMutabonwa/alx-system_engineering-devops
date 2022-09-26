@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 #Configures a new Ubuntu server with a custom HTTP header response
+
 sudo apt-get update
 sudo apt-get -y install nginx
 sudo service nginx start
